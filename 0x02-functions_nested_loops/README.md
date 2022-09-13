@@ -1,1 +1,1 @@
-This a task about functions nested loops using C
+This is a task about function nested loops using C
