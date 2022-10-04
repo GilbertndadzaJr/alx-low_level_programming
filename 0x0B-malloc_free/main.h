@@ -1,5 +1,5 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
+#ifndef FILE_MAIN_H_
+#define FILE_MAIN_H_
 
 char *create_array(unsigned int size, char c);
 char *_strdup(char *str);
